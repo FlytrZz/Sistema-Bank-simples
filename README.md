@@ -2,11 +2,14 @@
 
 Sistema bancário simples que inicializa informações primárias já declaradas e possui um menu para fazer determinadas funções.
 
-## 🛠️ Tecnologia utilizada
+## 🧠 Conhecimento utilizado
 - Java
 
 ## 📋 Funcionalidades
-- Ele pode consultar o saldo, trasnferir um valor, receber um valor e sair do programa.
+- Consultar o saldo
+- Trasnferir valor
+- Receber valor
+- Sair do programa.
 
 ## ▶️ Como executar
 1. Clone o repositório
