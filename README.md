@@ -1,4 +1,4 @@
-# Projeto Final de Java: Primeira Aplicação do Curso da Alura 
+# Sistema bancário simples 
 
 Sistema bancário simples que inicializa informações primárias já declaradas e possui um menu para fazer determinadas funções.
 
@@ -14,7 +14,4 @@ Sistema bancário simples que inicializa informações primárias já declaradas
 ## ▶️ Como executar
 1. Clone o repositório
 2. Abra no Eclipse
-3. Execute a classe Main
-
-## 📚 Aprendizados
-Aprendi a como desenvolver uma aplicação simples do Java.
+3. Execute a classe Desafio
